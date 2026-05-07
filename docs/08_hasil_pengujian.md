@@ -32,6 +32,8 @@ Confidence detection:
 97.22%
 ```
 
+![Hasil Deteksi Gambar Manusia](../outputs/1_result.jpg)
+
 Namun hasil classification menunjukkan:
 ```text
 sweatshirt
@@ -63,6 +65,8 @@ dengan confidence:
 ```text
 96.04%
 ```
+
+![Hasil Deteksi Gambar Kucing Siamese](../outputs/2_result.jpg)
 
 Hasil classification:
 ```text
@@ -97,6 +101,8 @@ dengan confidence:
 ```text
 93.91%
 ```
+
+![Hasil Deteksi Gambar Kucing Egyptian](../outputs/3_result.jpg)
 
 Hasil classification:
 ```text
@@ -134,6 +140,8 @@ dan:
 ```text
 cow
 ```
+
+![Hasil Deteksi Gambar Singa](../outputs/4_result.jpg)
 
 dengan confidence rendah.
 
