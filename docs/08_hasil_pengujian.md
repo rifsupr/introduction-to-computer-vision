@@ -158,13 +158,13 @@ dengan confidence:
 ## Analisis
 
 Pengujian ini menunjukkan bahwa:
-- object detection tidak selalu akurat,
-- terutama jika objek memiliki kemiripan visual dengan class lain.
+- Object detection tidak selalu akurat
+- Terutama jika objek memiliki kemiripan visual dengan class lain
 
 Namun model classification mampu memperbaiki hasil prediksi dengan sangat baik.
 
 Hal ini menunjukkan kombinasi:
-- detection + classification
+- Detection + classification
 
 Mampu meningkatkan hasil akhir sistem.
 
